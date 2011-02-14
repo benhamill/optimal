@@ -1,3 +1,1 @@
-module Optimal
-  # Your code goes here...
-end
+require 'optimal/version'
